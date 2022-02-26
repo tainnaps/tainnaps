@@ -2,7 +2,7 @@
 
 I am Tainá, a brazilian aspiring Web Software Developer from Salvador 🏖️. I am calm and shy, but really like getting to know new people and connect with them. When I am not programming, I'll definaly be spending time with my loved ones 👫, watching some good anime/k-drama 📺 or thinking about the misteries of life/universe 🤔.
 
-*Seeking for knowledge, currently studying at [Trybe](https://github.com/betrybe) 👩‍💻 and willing to do some good in the world* ✨.
+*Seeking for new experiences, currently studying at [Trybe](https://app.betrybe.com) 👩‍💻 and willing to do some good* ✨.
 
 ## Tools and Languages
 
