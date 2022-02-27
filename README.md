@@ -1,3 +1,6 @@
+<a href="https://www.linkedin.com/in/tainnaps/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-1aa7ec?style=for-the-badge"></a>
+<a href="https://tainnaps.github.io/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-797ef6?style=for-the-badge"></a>
+
 ## Hello  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 I'm Tainá, a brazilian aspiring Software Developer from Salvador whose name means Sun ☀️ (I guess this why I was born in one of the most sunny cities of the country).
