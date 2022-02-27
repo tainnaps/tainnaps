@@ -1,6 +1,6 @@
-<a href="https://www.linkedin.com/in/tainnaps/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-1aa7ec?style=for-the-badge"></a>
-<a href="https://tainnaps.github.io/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-797ef6?style=for-the-badge"></a>
-<a href="mailto:tainnaps@gmail.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-ea4c46?style=for-the-badge"></a>
+<a href="https://www.linkedin.com/in/tainnaps/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-1f6fea?style=flat-square"></a>
+<a href="https://tainnaps.github.io/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-7c56bf?style=flat-square"></a>
+<a href="mailto:tainnaps@gmail.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-ea4c46?style=flat-square"></a>
 
 ## Hello  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
