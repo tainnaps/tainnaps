@@ -1,20 +1,42 @@
 ## Hello  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I am Tainá, a brazilian aspiring Web Software Developer from Salvador 🏖️. I am calm and shy, but really like getting to know new people and connect with them. When I am not programming, I'll definaly be spending time with my loved ones 👫, watching some good anime/k-drama 📺 or thinking about the misteries of life/universe 🤔.
+I'm Tainá, a brazilian aspiring Software Developer from Salvador whose name means Sun ☀️ (I guess this why I was born in one of the most sunny cities of the country).
 
-*Seeking for new experiences, currently studying at [Trybe](https://app.betrybe.com) 👩‍💻 and willing to do some good* ✨.
+My journey with programming has began throught electronics, when I programed the 8051 microcontroller to write the word *caramel* on a display (you can notice I was hungry when I did that 😆).
+
+I'm currently studying at [Trybe](https://app.betrybe.com) and improving myself to develop applications that will be useful to other people 👩‍💻.
+
+Whenever I'm not programming, I definitely will be spending time with my loved ones 👫, watching some good anime/k-drama 📺 or thinking about the misteries of life 🤔.
 
 ## Tools and Languages
 
-<code><img height="55" src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Other-html-5-icon.png" alt="HTML"></code>
-<code><img height="50" src="https://logospng.org/download/css-3/logo-css-3-2048.png" alt="CSS"></code>
-<code><img height="50" src="https://logospng.org/download/javascript/logo-javascript-icon-1024.png" alt="JavaScript"></code>
-<code><img height="48" src="https://symbols.getvecta.com/stencil_25/40_jest.5fde12ec22.png" alt="Jest"></code>
-<code><img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="React"></code>
-<code><img height="50" src="https://img.icons8.com/color/480/redux.png" alt="Redux"></code>
-<code><img height="48" src="https://hermes.digitalinnovation.one/articles/cover/8a7306cb-59e3-481f-832d-57ac4587b516.png" alt="Git"></code>
-<code><img height="50" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" alt="Docker"></code>
-<code><img height="50" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="MySQL"></code>
+<a href="https://www.w3schools.com/html/" target="_blanck">
+   <code><img height="45" src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Other-html-5-icon.png" alt="HTML"></code>
+</a>
+<a href="https://www.w3schools.com/css/" target="_blanck">
+  <code><img height="40" src="https://logospng.org/download/css-3/logo-css-3-2048.png" alt="CSS"></code>
+</a>
+<a href="https://www.w3schools.com/js/" target="_blanck">
+  <code><img height="40" src="https://logospng.org/download/javascript/logo-javascript-icon-1024.png" alt="JavaScript"></code>
+</a>
+<a href="https://jestjs.io/" target="_blanck">
+  <code><img height="38" src="https://symbols.getvecta.com/stencil_25/40_jest.5fde12ec22.png" alt="Jest"></code>
+</a>
+<a href="https://reactjs.org/" target="_blanck">
+  <code><img height="40" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="React"></code>
+</a>
+<a href="https://redux.js.org/" target="_blanck">
+  <code><img height="40" src="https://img.icons8.com/color/480/redux.png" alt="Redux"></code>
+</a>
+<a href="https://git-scm.com/" target="_blanck">
+  <code><img height="38" src="https://hermes.digitalinnovation.one/articles/cover/8a7306cb-59e3-481f-832d-57ac4587b516.png" alt="Git"></code>
+</a>
+<a href="https://www.docker.com/" target="_blanck" margin-right="100px">
+  <code><img height="40" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" alt="Docker"></code>
+</a>
+<a href="https://www.mysql.com/" target="_blanck">
+  <code><img height="40" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="MySQL"></code>
+</a>
 
 ## My Stats
 
