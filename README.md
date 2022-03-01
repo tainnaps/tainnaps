@@ -48,4 +48,4 @@ Whenever I'm not programming, I definitely will be spending time with my loved o
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=tainnaps&theme=github_dark&layout=compact&card_width=447)](https://github.com/anuraghazra/github-readme-stats)
 
-[ReadMe Stats](https://github.com/anuraghazra/github-readme-stats) by anuraghazra.
+ReadMe Stats by [@anuraghazra](https://github.com/anuraghazra/github-readme-stats) and Profile Badges by [shields.io](https://shields.io/).
