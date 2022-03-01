@@ -8,7 +8,7 @@ I'm Tainá, a brazilian aspiring Software Developer from Salvador whose name mea
 
 My journey with programming has began throught electronics, when I programed the 8051 microcontroller to write the word *caramel* on a display (you can notice I was hungry when I did that 😆).
 
-I'm currently studying at [Trybe](https://app.betrybe.com) and improving myself to develop applications that will be useful to other people 👩‍💻.
+I'm currently studying at [Trybe](https://www.betrybe.com/) and improving myself to develop applications that will be useful to other people 👩‍💻.
 
 Whenever I'm not programming, I definitely will be spending time with my loved ones 👫, watching some good anime/k-drama 📺 or thinking about the misteries of life 🤔.
 
