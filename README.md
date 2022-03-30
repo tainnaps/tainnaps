@@ -41,6 +41,12 @@ Whenever I'm not programming, I definitely will be spending time with my loved o
 <a href="https://www.mysql.com/" target="_blanck">
   <code><img height="40" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="MySQL"></code>
 </a>
+<a href="https://nodejs.org/en/" target="_blanck">
+  <code><img height="40" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" alt="Node"></code>
+</a>
+<a href="https://expressjs.com/" target="_blanck">
+  <code><img height="40" src="https://freepikpsd.com/file/2019/10/express-js-png-5-Transparent-Images.png" alt="Express"></code>
+</a>
 
 ## My Stats
 
