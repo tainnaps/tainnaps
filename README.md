@@ -47,6 +47,18 @@ Whenever I'm not programming, I definitely will be spending time with my loved o
 <a href="https://expressjs.com/" target="_blanck">
   <code><img height="40" src="https://freepikpsd.com/file/2019/10/express-js-png-5-Transparent-Images.png" alt="Express"></code>
 </a>
+<a href="https://www.typescriptlang.org/" target="_blanck">
+  <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="TypeScript"></code>
+</a>
+<a href="https://mochajs.org/" target="_blanck">
+  <code><img height="45" src="https://blog.knoldus.com/wp-content/uploads/2019/12/mocha.png" alt="Mocha"></code>
+</a>
+<a href="https://www.chaijs.com/" target="_blanck">
+  <code><img height="45" src="https://avatars.githubusercontent.com/u/1515293?s=280&v=4" alt="Chai"></code>
+</a>
+<a href="https://sinonjs.org/" target="_blanck">
+  <code><img height="45" src="https://sinonjs.org/assets/images/logo.png" alt="Sinon"></code>
+</a>
 
 ## My Stats
 
