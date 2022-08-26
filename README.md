@@ -68,11 +68,11 @@
 
 ## My Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img float="left" src="https://github-readme-stats.vercel.app/api?username=tainnaps&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true" />
+<a float="left" href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=tainnaps&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tainnaps&theme=github_dark&layout=compact&card_width=447&hide_border=true&langs_count=4" />
+<a float="right" href="https://github.com/anuraghazra/convoychat">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tainnaps&theme=github_dark&layout=compact&card_width=447&hide_border=true&langs_count=4" />
 </a>
 
 > ReadMe Stats by [@anuraghazra](https://github.com/anuraghazra/github-readme-stats) and Profile Badges by [Shields](https://shields.io/).
