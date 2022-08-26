@@ -2,62 +2,68 @@
 <a href="https://tainnaps.github.io/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-7c56bf?style=flat&logo=react&logoColor=ffffff"></a>
 <a href="mailto:tainnaps@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMAIL-ea4c46?style=flat&logo=gmail&logoColor=ffffff"></a>
 
-## Hello!
+## Hello 👋
+> I'm a software developer passionate about backend and solving problems.
 
-I'm Tainá, a brazilian aspiring Software Developer from Salvador whose name means Sun ☀️ (I guess this why I was born in one of the most sunny cities of the country).
+- 💻 I’m currently studying **Software Development at [Trybe](https://www.betrybe.com/)**
 
-My journey with programming has began throught electronics, when I programed the 8051 microcontroller to write the word *caramel* on a display (you can notice I was hungry when I did that 😆).
+- 🤝 I’m looking to **cause positive impact on people's lives through programming**
 
-I'm currently studying at [Trybe](https://www.betrybe.com/) and improving myself with the purpose of develop digital solutions that will cause positive impact on people's lives 👩‍💻.
+- 📚 I’m currently learning **OOP, SOLID, TypeScript, Python**
 
-Whenever I'm not programming, I definitely will be spending time with my loved ones 👫, watching some good anime/k-drama 📺 or thinking about the misteries of life 🤔.
+- 💬 Ask me about **backend, Node.js and anime/k-drama**
+
+- ⚡ Fun fact: **I think Assembly is easier than C**
 
 ## Tools and Languages
 
 <a href="https://www.w3schools.com/html/" target="_blanck">
-   <code><img height="45" src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Other-html-5-icon.png" alt="HTML"></code>
+   <img height="45" src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Other-html-5-icon.png" alt="HTML">
 </a>
 <a href="https://www.w3schools.com/css/" target="_blanck">
-  <code><img height="40" src="https://logospng.org/download/css-3/logo-css-3-2048.png" alt="CSS"></code>
+  <img height="40" src="https://logospng.org/download/css-3/logo-css-3-2048.png" alt="CSS">
 </a>
 <a href="https://www.w3schools.com/js/" target="_blanck">
-  <code><img height="40" src="https://logospng.org/download/javascript/logo-javascript-icon-1024.png" alt="JavaScript"></code>
+  <img height="40" src="https://logospng.org/download/javascript/logo-javascript-icon-1024.png" alt="JavaScript">
 </a>
 <a href="https://jestjs.io/" target="_blanck">
-  <code><img height="38" src="https://symbols.getvecta.com/stencil_25/40_jest.5fde12ec22.png" alt="Jest"></code>
+  <img height="38" src="https://symbols.getvecta.com/stencil_25/40_jest.5fde12ec22.png" alt="Jest">
 </a>
 <a href="https://reactjs.org/" target="_blanck">
-  <code><img height="40" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="React"></code>
+  <img height="40" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="React">
 </a>
 <a href="https://redux.js.org/" target="_blanck">
-  <code><img height="40" src="https://img.icons8.com/color/480/redux.png" alt="Redux"></code>
+  <img height="40" src="https://img.icons8.com/color/480/redux.png" alt="Redux">
 </a>
 <a href="https://git-scm.com/" target="_blanck">
-  <code><img height="38" src="https://hermes.digitalinnovation.one/articles/cover/8a7306cb-59e3-481f-832d-57ac4587b516.png" alt="Git"></code>
+  <img height="38" src="https://hermes.digitalinnovation.one/articles/cover/8a7306cb-59e3-481f-832d-57ac4587b516.png" alt="Git">
 </a>
 <a href="https://www.docker.com/" target="_blanck" margin-right="100px">
-  <code><img height="40" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" alt="Docker"></code>
+  <img height="40" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" alt="Docker">
 </a>
 <a href="https://www.mysql.com/" target="_blanck">
-  <code><img height="40" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="MySQL"></code>
+  <img height="40" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="MySQL">
 </a>
 <a href="https://nodejs.org/en/" target="_blanck">
-  <code><img height="40" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" alt="Node"></code>
+  <img height="40" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" alt="Node">
 </a>
 <a href="https://expressjs.com/" target="_blanck">
-  <code><img height="40" src="https://freepikpsd.com/file/2019/10/express-js-png-5-Transparent-Images.png" alt="Express"></code>
+  <img height="40" src="https://freepikpsd.com/file/2019/10/express-js-png-5-Transparent-Images.png" alt="Express">
 </a>
 <a href="https://www.typescriptlang.org/" target="_blanck">
-  <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="TypeScript"></code>
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="TypeScript">
 </a>
 <a href="https://mochajs.org/" target="_blanck">
-  <code><img height="45" src="https://blog.knoldus.com/wp-content/uploads/2019/12/mocha.png" alt="Mocha"></code>
+  <img height="45" src="https://blog.knoldus.com/wp-content/uploads/2019/12/mocha.png" alt="Mocha">
 </a>
 <a href="https://www.chaijs.com/" target="_blanck">
-  <code><img height="45" src="https://avatars.githubusercontent.com/u/1515293?s=280&v=4" alt="Chai"></code>
+  <img height="45" src="https://avatars.githubusercontent.com/u/1515293?s=280&v=4" alt="Chai">
 </a>
 <a href="https://sinonjs.org/" target="_blanck">
-  <code><img height="45" src="https://sinonjs.org/assets/images/logo.png" alt="Sinon"></code>
+  <img height="45" src="https://sinonjs.org/assets/images/logo.png" alt="Sinon">
+</a>
+<a href="https://www.mongodb.com/" target="_blanck">
+  <img height="45" src="https://user-images.githubusercontent.com/11978772/40430921-73d53922-5e63-11e8-8dcd-1662136c3212.png" alt="MongoDB">
 </a>
 
 ## My Stats
