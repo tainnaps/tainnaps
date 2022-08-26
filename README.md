@@ -6,13 +6,9 @@
 > I'm a software developer passionate about backend and solving problems.
 
 - 💻 I’m currently studying **Software Development at [Trybe](https://www.betrybe.com/)**
-
 - 🤝 I’m looking to **cause positive impact on people's lives through programming**
-
 - 📚 I’m currently learning **OOP, SOLID, TypeScript, Python**
-
 - 💬 Ask me about **backend, Node.js and anime/k-drama**
-
 - ⚡ Fun fact: **I think Assembly is easier than C**
 
 ## Tools and Languages
