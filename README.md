@@ -3,7 +3,7 @@
 <a href="mailto:tainnaps@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMAIL-ea4c46?style=flat&logo=gmail&logoColor=ffffff"></a>
 
 ## Hello 👋
-- 👩🏽‍💻 I'm a software developer **passionate about backend and solving problems**
+- 👩🏽‍💻 I'm a software developer **passionate about solving problems**
 
 - 💻 I’m currently studying **Software Development at [Trybe](https://www.betrybe.com/)**
 
@@ -11,7 +11,7 @@
 
 - 📚 I’m currently learning **OOP, SOLID, TypeScript, Python**
 
-- 💬 Ask me about **backend, Node.js and anime/k-drama**
+- 💬 Ask me about **React, Node.js and anime/k-drama**
 
 - ⚡ Fun fact: **I think Assembly is easier than C**
 
