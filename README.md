@@ -5,8 +5,6 @@
 ## Hello 👋
 - 👩🏽‍💻 I'm a software developer **passionate about solving problems**
 
-- 💻 I’m currently studying **Software Development at [Trybe](https://www.betrybe.com/)**
-
 - 🤝 I’m looking to **cause positive impact on people's lives through programming**
 
 - 📚 I’m currently learning **OOP, SOLID, TypeScript, Python**
