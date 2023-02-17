@@ -24,14 +24,17 @@
 <a href="https://www.w3schools.com/js/" target="_blanck">
   <img height="40" src="https://logospng.org/download/javascript/logo-javascript-icon-1024.png" alt="JavaScript">
 </a>
-<a href="https://jestjs.io/" target="_blanck">
-  <img height="38" src="https://symbols.getvecta.com/stencil_25/40_jest.5fde12ec22.png" alt="Jest">
-</a>
 <a href="https://reactjs.org/" target="_blanck">
   <img height="40" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="React">
 </a>
-<a href="https://redux.js.org/" target="_blanck">
-  <img height="40" src="https://img.icons8.com/color/480/redux.png" alt="Redux">
+<a href="https://nodejs.org/en/" target="_blanck">
+  <img height="40" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" alt="Node">
+</a>
+<a href="https://www.typescriptlang.org/" target="_blanck">
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="TypeScript">
+</a>
+<a href="https://www.python.org/" target="_blanck">
+  <img height="45" src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" alt="Python">
 </a>
 <a href="https://git-scm.com/" target="_blanck">
   <img height="38" src="https://hermes.digitalinnovation.one/articles/cover/8a7306cb-59e3-481f-832d-57ac4587b516.png" alt="Git">
@@ -41,21 +44,6 @@
 </a>
 <a href="https://www.mysql.com/" target="_blanck">
   <img height="40" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="MySQL">
-</a>
-<a href="https://nodejs.org/en/" target="_blanck">
-  <img height="40" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" alt="Node">
-</a>
-<a href="https://www.typescriptlang.org/" target="_blanck">
-  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="TypeScript">
-</a>
-<a href="https://mochajs.org/" target="_blanck">
-  <img height="45" src="https://blog.knoldus.com/wp-content/uploads/2019/12/mocha.png" alt="Mocha">
-</a>
-<a href="https://www.chaijs.com/" target="_blanck">
-  <img height="45" src="https://avatars.githubusercontent.com/u/1515293?s=280&v=4" alt="Chai">
-</a>
-<a href="https://sinonjs.org/" target="_blanck">
-  <img height="45" src="https://sinonjs.org/assets/images/logo.png" alt="Sinon">
 </a>
 <a href="https://www.mongodb.com/" target="_blanck">
   <img height="45" src="https://user-images.githubusercontent.com/11978772/40430921-73d53922-5e63-11e8-8dcd-1662136c3212.png" alt="MongoDB">
