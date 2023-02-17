@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking to **cause positive impact on people's lives through programming**
 
-- 📚 I’m currently learning **OOP, SOLID, TypeScript, Python**
+- 📚 I’m currently studying **Python**
 
 - 💬 Ask me about **React, Node.js and anime/k-drama**
 
@@ -44,9 +44,6 @@
 </a>
 <a href="https://nodejs.org/en/" target="_blanck">
   <img height="40" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" alt="Node">
-</a>
-<a href="https://expressjs.com/" target="_blanck">
-  <img height="40" src="https://freepikpsd.com/file/2019/10/express-js-png-5-Transparent-Images.png" alt="Express">
 </a>
 <a href="https://www.typescriptlang.org/" target="_blanck">
   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="TypeScript">
