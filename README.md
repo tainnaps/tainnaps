@@ -49,10 +49,10 @@
   <img height="45" src="https://user-images.githubusercontent.com/11978772/40430921-73d53922-5e63-11e8-8dcd-1662136c3212.png" alt="MongoDB">
 </a>
 
-## My Stats
+<!-- ## My Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tainnaps&show_icons=true&theme=github_dark&include_all_commits=false&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=tainnaps&theme=github_dark&layout=compact&card_width=447&langs_count=10&hide=Java,Objective-C,Starlark,Ruby,Shell)](https://github.com/anuraghazra/github-readme-stats)
 
-> ReadMe Stats by [@anuraghazra](https://github.com/anuraghazra/github-readme-stats) and Profile Badges by [Shields](https://shields.io/).
+> ReadMe Stats by [@anuraghazra](https://github.com/anuraghazra/github-readme-stats) and Profile Badges by [Shields](https://shields.io/). -->
